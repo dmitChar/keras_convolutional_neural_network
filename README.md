@@ -6,11 +6,11 @@
 1) фотографии, на которых изображен человек.
 2) маски соответствующих фотографий 
 Пример исходных данных: 
-- Исходная фотография с человеком![image]
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/5c0dda8b-7675-4218-81f3-95775a79f7c5">
+- Исходная фотография с человеком!
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5c0dda8b-7675-4218-81f3-95775a79f7c5">
 
-- Маска исходной фотографии ![image]
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/5518c494-23b6-4003-a7ab-acc1fdf4ea2f">
+- Маска исходной фотографии !
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5518c494-23b6-4003-a7ab-acc1fdf4ea2f">
 
 
 
