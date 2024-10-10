@@ -18,11 +18,11 @@
 - 192 фотографии и маски, не участвующих в процессе обучения, для тестовой проверки работы нейронной сети
 
 ## Результаты сегментации изображений с помощью нейронной сети
-- <img width="700" alt="image" src="https://github.com/user-attachments/assets/7af19fb9-855f-4293-82ac-ef6061e3156a">
+- <img width="800" alt="image" src="https://github.com/user-attachments/assets/7af19fb9-855f-4293-82ac-ef6061e3156a">
 
-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/5058ee1f-5e07-4b03-9460-f84093462f07">
+- <img width="800" alt="image" src="https://github.com/user-attachments/assets/5058ee1f-5e07-4b03-9460-f84093462f07">
 
-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/7f5886cd-a631-4545-b44f-984fc1f9905c">
+- <img width="800" alt="image" src="https://github.com/user-attachments/assets/7f5886cd-a631-4545-b44f-984fc1f9905c">
 
 
 
